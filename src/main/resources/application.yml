@@ -1,0 +1,12 @@
+cloud:
+  aws:
+    credentials:
+      access-key: AKIARDMBTIH6CXQOBK6Y
+      secret-key: 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
+    sns:
+      topic:
+        vendas:
+          arn: arn:aws:sns:sa-east-1:075970593276:vendas-topico
+
+#server:
+#  port: 8081
